@@ -85,7 +85,7 @@
 
 
 
-50 tricks to identify DSA Patterns Link: https://drive.google.com/drive/folders/1Da_v5uHIvBscWcRRgMsYGq-hJ00dQL9Y
+
 
 | Company Name        | DSA Problem Link                                                                                                                                       | Tricks for Solving Patterns                          |
 |---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
