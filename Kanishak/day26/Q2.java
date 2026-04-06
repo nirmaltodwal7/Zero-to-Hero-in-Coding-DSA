@@ -1,6 +1,9 @@
 // Reverse Integer
 package day26;
 
+// Input: x = 123
+// Output: 321
+
 public class Q2 {
     public int reverse(int x) {
         int result = 0;
