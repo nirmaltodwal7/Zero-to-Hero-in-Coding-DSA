@@ -1,5 +1,7 @@
 // Longest Subsequence Repeated k Times
 
+// Input: s = "letsleetcode", k = 2
+// Output: "let"
 package day16;
 
 
