@@ -1,3 +1,9 @@
+// Count Frequencies
+
+// Input: nums = [1,1,2,2,3]
+// Output: [[1,2],[2,2],[3,1]]
+package day19;
+
 import java.util.*;
 
 class Solution {
