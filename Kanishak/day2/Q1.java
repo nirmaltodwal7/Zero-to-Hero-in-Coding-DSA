@@ -14,9 +14,13 @@ class Solution {
         for (int i = 0; i < nums.length; i++) {
             int a = target - nums[i];
 
+
+            // check if the number we need to get the target is already in the map, if yes, we return the index of that number and the current index
             if (map.containsKey(a)) {
                 return new int[] { map.get(a), i };
             }
+
+            // if we did not get the answer, we put the number and its index in the map
             map.put(nums[i], i);
         }
         return new int[] {};
